@@ -18,7 +18,7 @@ I build and maintain a few extensions for Azure DevOps. You can find the full do
 <a href="https://marketplace.visualstudio.com/items?itemName=joachimdalen.acceptance-criterias" style="margin-right:5px"><img src="./assets/acceptance-criterias.png"/></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=joachimdalen.pull-request-utils" style="margin-right:5px"><img src="./assets/pull-request-utils.png"/></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=joachimdalen.work-item-wiki" style="margin-right:5px"><img src="./assets/work-item-wiki.png"/></a>
-<a href="https://marketplace.visualstudio.com/items?itemName=joachimdalen.git-guard" style="margin-right:5px"><img src="./assets/gitguard.png"/></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=joachimdalen.gitguard" style="margin-right:5px"><img src="./assets/gitguard.png"/></a>
 </div>
 
 ### Azure Certified

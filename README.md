@@ -23,6 +23,9 @@ I build and maintain a few extensions for Azure DevOps. You can find the full do
 
 ### Azure Certified
 
-| ![](./assets/certifications/security-compliance-and-identity-fundamentals.png) | ![](./assets/certifications/azure-security-engineer-associate.png) | ![](./assets/certifications/azure-developer-associate.png) | ![](./assets/certifications/azure-devops-engineer-expert.png) | ![](./assets/certifications/azure-solutions-architect-expert.png) |
-| :----------------------------------------------------------------------------: | :----------------------------------------------------------------: | :--------------------------------------------------------: | :-----------------------------------------------------------: | :---------------------------------------------------------------: |
-|              **Security, Compliance, and Identity Fundamentals**               |               **Azure Security Engineer Associate**                |               **Azure Developer Associate**                |                  **DevOps Engineer Expert**                   |               **Azure Solutions Architect Expert**                |
+| ![](./assets/certifications/identity-and-access-administrator-associate.png) | ![](./assets/certifications/azure-security-engineer-associate.png) |           ![](./assets/certifications/azure-developer-associate.png)           |
+| :--------------------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------------------: |
+|               **Identity and Access Administrator Associate**                |               **Azure Security Engineer Associate**                |                         **Azure Developer Associate**                          |
+|                                                                              |                                                                    |                                                                                |
+|           ![](./assets/certifications/devops-engineer-expert.png)            | ![](./assets/certifications/azure-solutions-architect-expert.png)  | ![](./assets/certifications/security-compliance-and-identity-fundamentals.png) |
+|                          **DevOps Engineer Expert**                          |                **Azure Solutions Architect Expert**                |              **Security, Compliance, and Identity Fundamentals**               |

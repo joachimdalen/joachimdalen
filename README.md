@@ -2,7 +2,7 @@
 
 Hi, I'm Joachim! Nice of you to stop by. Let me tell you a little bit about me and what I do.
 
-I'm a Software and Infrastructure Engineer specializing in Azure, Azure DevOps and .NET. I also enjo the challenges that comes with desiging software and infrastructure architecture.
+I'm a Software and Infrastructure Engineer specializing in Azure, Azure DevOps and .NET. I also enjoy the challenges that comes with desiging software and infrastructure architecture.
 
 ## Projects
 

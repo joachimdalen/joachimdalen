@@ -2,7 +2,15 @@
 
 Hi, I'm Joachim! Nice of you to stop by. Let me tell you a little bit about me and what I do.
 
-I'm a Software and Infrastructure Engineer specializing in Azure, Azure DevOps and .NET. I also enjo the challenges that comes with desiging software and infrastructure architecture.
+I'm a Cloud Solutions Architect specializing in Azure, Azure DevOps and .NET.
+
+My main focus areas revolves around:
+
+- Infrastructure Engineering
+- Developer Experience
+- Automation
+
+I also enjoy the challenges that comes with desiging software and infrastructure architecture.
 
 ## Projects
 
@@ -21,7 +29,11 @@ I build and maintain a few extensions for Azure DevOps. You can find the full do
 <a href="https://marketplace.visualstudio.com/items?itemName=joachimdalen.gitguard" style="margin-right:5px"><img src="./assets/extensions/gitguard.png"/></a>
 </div>
 
-### Azure Certified
+### My repositories
+
+Like many other developers I have a lot of unfinished projects and a lot of them you fill find under this project. I tend to not delete any projects, but that does not mean I will come back to them. Feel free to submit an issue on any of them if you have any questions.
+
+## Azure Certified
 
 | ![](./assets/certifications/identity-and-access-administrator-associate.png) | ![](./assets/certifications/azure-security-engineer-associate.png) |           ![](./assets/certifications/azure-developer-associate.png)           |
 | :--------------------------------------------------------------------------: | :----------------------------------------------------------------: | :----------------------------------------------------------------------------: |

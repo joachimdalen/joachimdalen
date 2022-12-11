@@ -41,3 +41,8 @@ Like many other developers I have a lot of unfinished projects and a lot of them
 |                                                                              |                                                                    |                                                                                |
 |           ![](./assets/certifications/devops-engineer-expert.png)            | ![](./assets/certifications/azure-solutions-architect-expert.png)  | ![](./assets/certifications/security-compliance-and-identity-fundamentals.png) |
 |                          **DevOps Engineer Expert**                          |                **Azure Solutions Architect Expert**                |              **Security, Compliance, and Identity Fundamentals**               |
+
+# CompTIA Certified
+| ![](./assets/certifications/comptia-ctt.png) |
+| :--------------------------------------------------------------------------: |
+|               **CompTIA CTT+ Classroom Trainer**                |

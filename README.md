@@ -1,6 +1,6 @@
 ## Hi, I'm Joachim Dalen 👋
 
-<img align="right" width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=joachimdalen&show_icons=true&hide_border=false&line_height=20&title_color=1a8a01&icon_color=1a8a01&show_owner=true&theme=github_dark_dimmed"/>
+<!-- <img align="right" width="400" height="165" src="https://github-readme-stats.vercel.app/api?username=joachimdalen&show_icons=true&hide_border=false&line_height=20&title_color=1a8a01&icon_color=1a8a01&show_owner=true&theme=github_dark_dimmed"/>-->
 
 Nice of you to stop by. Let me tell you a little bit about me and what I do.
 
